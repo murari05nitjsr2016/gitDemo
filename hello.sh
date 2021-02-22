@@ -1,2 +1,3 @@
 #! /bin/bash -x
-hello git
+echo "hello git"
+echo "git add line"
